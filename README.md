@@ -10,5 +10,5 @@ The dataset used in this project is the publicly available MLEnd London Sounds d
 The models trained for this classification problem are SVM and Logistic Regression. The performance of both the models is compared on this dataset. Logistic regression and support vector machines are both supervised machine learning algorithms. They both are used to solve classification problems.
 It was found that SVM seems to perform better for this particular dataset and achieves 75% accuracy on test dataset.
 
-#Requirements
+# Requirements
 Python 3.x  librosa
